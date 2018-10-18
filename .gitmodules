@@ -1,0 +1,12 @@
+[submodule "contacts-core"]
+	path = contacts-core
+	url = https://github.com/nurlanotek/contacts-core
+[submodule "associations"]
+	path = associations
+	url = https://github.com/geobe/associations
+[submodule "state-machine"]
+	path = state-machine
+	url = https://github.com/geobe/state-machine
+[submodule "vaadin-builder"]
+	path = vaadin-builder
+	url = https://github.com/geobe/vaadin-builder
